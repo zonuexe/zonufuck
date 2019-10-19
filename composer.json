@@ -1,0 +1,8 @@
+{
+    "name": "zonuexe/zonufuck",
+    "description": "A Brainfuck interpreter written in PHP.",
+    "license": "GPL-3.0-or-later",
+    "require": {
+        "php": "^7.1"
+    }
+}

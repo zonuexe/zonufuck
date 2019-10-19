@@ -11,6 +11,13 @@
         "php": "^7.1"
     },
     "require-dev": {
-        "phpunit/phpunit": "^7.5"
+        "friendsofphp/php-cs-fixer": "^2.15",
+        "phan/phan": "^2.3",
+        "phpstan/phpstan": "^0.11.16",
+        "phpunit/phpunit": "^7.5",
+        "vimeo/psalm": "^3.6"
+    },
+    "config": {
+        "sort-packages": true
     }
 }
